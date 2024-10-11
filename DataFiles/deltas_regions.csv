@@ -1,0 +1,87 @@
+Region,Boundaries,Delta Name,Number
+Arctic,"[(-179, 179), (60, 80)]",Yukon,1
+Arctic,"[(-179, 179), (60, 80)]",Copper,2
+Arctic,"[(-179, 179), (60, 80)]",MacKenzie,3
+North America,"[(-140, -50), (12, 60)]",Fraser,4
+North America,"[(-140, -50), (12, 60)]",Colorado,5
+North America,"[(-140, -50), (12, 60)]",Brazos,6
+North America,"[(-140, -50), (12, 60)]",Grijalva,7
+North America,"[(-140, -50), (12, 60)]",Mississippi,8
+South America,"[(-110, -30), (-60, 12)]",Rio Guayas,9
+South America,"[(-110, -30), (-60, 12)]",Mira,10
+South America,"[(-110, -30), (-60, 12)]",Patia,11
+South America,"[(-110, -30), (-60, 12)]",San Juan,12
+South America,"[(-110, -30), (-60, 12)]",Magdalena,13
+South America,"[(-110, -30), (-60, 12)]",Colorado(AR),14
+South America,"[(-110, -30), (-60, 12)]",Orinoco,15
+South America,"[(-110, -30), (-60, 12)]",Parana,16
+South America,"[(-110, -30), (-60, 12)]",Amazon,17
+South America,"[(-110, -30), (-60, 12)]",Parnaiba,18
+South America,"[(-110, -30), (-60, 12)]",Paraiba Do Sul,19
+South America,"[(-110, -30), (-60, 12)]",Doce,20
+South America,"[(-110, -30), (-60, 12)]",Sao Francisco,21
+Africa,"[(-25, 60), (-40, 35)]",Casamance,22
+Africa,"[(-25, 60), (-40, 35)]",Saloum,23
+Africa,"[(-25, 60), (-40, 35)]",Senegal,24
+Europe,"[(-25, 60), (35, 60)]",Ebro,25
+Europe,"[(-25, 60), (35, 60)]",Rhone,26
+Europe,"[(-25, 60), (35, 60)]",Rhine-Meuse,27
+Africa,"[(-25, 60), (-40, 35)]",Niger,28
+Europe,"[(-25, 60), (35, 60)]",Po,29
+Africa,"[(-25, 60), (-40, 35)]",Congo,30
+Europe,"[(-25, 60), (35, 60)]",Vistula,31
+Europe,"[(-25, 60), (35, 60)]",Danube,32
+Africa,"[(-25, 60), (-40, 35)]",Nile,33
+Europe,"[(-25, 60), (35, 60)]",Dnieper,34
+Africa,"[(-25, 60), (-40, 35)]",Limpopo,35
+Europe,"[(-25, 60), (35, 60)]",Ceyhan Seyhan,36
+Africa,"[(-25, 60), (-40, 35)]",Zambezi,37
+Europe,"[(-25, 60), (35, 60)]",Kuban,38
+Africa,"[(-25, 60), (-40, 35)]",Rufiji,39
+Europe,"[(-25, 60), (35, 60)]",Don,40
+Africa,"[(-25, 60), (-40, 35)]",Mangoky,41
+Africa,"[(-25, 60), (-40, 35)]",Tsiribihina,42
+Africa,"[(-25, 60), (-40, 35)]",Betsiboka,43
+Africa,"[(-25, 60), (-40, 35)]",Shatt Al-Arab,44
+Europe,"[(-25, 60), (35, 60)]",Volga,45
+Europe,"[(-25, 60), (35, 60)]",Kura,46
+Arctic,"[(-179, 179), (60, 80)]",Pechora,47
+Asia,"[(60, 150), (9, 60)]",Indus,48
+Arctic,"[(-179, 179), (60, 80)]",Ob,49
+Arctic,"[(-179, 179), (60, 80)]",Khorovaya,50
+Arctic,"[(-179, 179), (60, 80)]",Messoyakha,51
+Asia,"[(60, 150), (9, 60)]",Krishna,52
+Asia,"[(60, 150), (9, 60)]",Godavari,53
+Arctic,"[(-179, 179), (60, 80)]",Yenisey,54
+Asia,"[(60, 150), (9, 60)]",Mahanadi,55
+Asia,"[(60, 150), (9, 60)]",Ganges-Brahmaputra,56
+Asia,"[(60, 150), (9, 60)]",Kaladan,57
+Asia,"[(60, 150), (9, 60)]",Irrawaddy,58
+Asia,"[(60, 150), (9, 60)]",Salween,59
+Asia,"[(60, 150), (9, 60)]",Chao Praya,60
+Australia and Oceania,"[(100, 180), (-50, 9)]",Indragiri,61
+Australia and Oceania,"[(100, 180), (-50, 9)]",Batang Hari,62
+Australia and Oceania,"[(100, 180), (-50, 9)]",Masi,63
+Asia,"[(60, 150), (9, 60)]",Mekong,64
+Asia,"[(60, 150), (9, 60)]",Red River,65
+Australia and Oceania,"[(100, 180), (-50, 9)]",Citaro,66
+Australia and Oceania,"[(100, 180), (-50, 9)]",Kapuas,67
+Australia and Oceania,"[(100, 180), (-50, 9)]",Rajang,68
+Asia,"[(60, 150), (9, 60)]",Pearl,69
+Australia and Oceania,"[(100, 180), (-50, 9)]",Sesayap,70
+Australia and Oceania,"[(100, 180), (-50, 9)]",Mahakam,71
+Australia and Oceania,"[(100, 180), (-50, 9)]",Kayan,72
+Asia,"[(60, 150), (9, 60)]",Yellow,73
+Asia,"[(60, 150), (9, 60)]",Yangtze,74
+Asia,"[(60, 150), (9, 60)]",Cagayan,75
+Arctic,"[(-179, 179), (60, 80)]",Lena,76
+Arctic,"[(-179, 179), (60, 80)]",Yana,77
+Australia and Oceania,"[(100, 180), (-50, 9)]",Mamberamo,78
+Australia and Oceania,"[(100, 180), (-50, 9)]",Digul,79
+Australia and Oceania,"[(100, 180), (-50, 9)]",Gilbert,80
+Australia and Oceania,"[(100, 180), (-50, 9)]",Mitchell,81
+Australia and Oceania,"[(100, 180), (-50, 9)]",Fly,82
+Australia and Oceania,"[(100, 180), (-50, 9)]",Sepik,83
+Australia and Oceania,"[(100, 180), (-50, 9)]",Kikori,84
+Australia and Oceania,"[(100, 180), (-50, 9)]",Purari,85
+Australia and Oceania,"[(100, 180), (-50, 9)]",Burdekin,86
